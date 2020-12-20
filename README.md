@@ -4,7 +4,7 @@
 
 <H1>Week_2</H1>
 <H3>Get started</H3>
-<img src="https://github.com/user567890/Intelligent-Mobile-Development/blob/main/1_1.png">
+<img src="https://github.com/user567890/Intelligent-Mobile-Development/blob/main/1_1.png" style="width:500px;height:600px;>
 
 <H1>Week_3</H1>
 <H3>Layouts and resources for the UI</H3>
