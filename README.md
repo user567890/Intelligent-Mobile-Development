@@ -8,7 +8,7 @@
 <HR>
   
 
-<H2>Week_Three</H2>
+<H2>Week_3</H2>
 <img src="https://github.com/user567890/Intelligent-Mobile-Development/blob/main/1.png">
 <img src="https://github.com/user567890/Intelligent-Mobile-Development/blob/main/3.png">
 <HR>
