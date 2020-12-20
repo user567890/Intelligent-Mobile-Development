@@ -11,7 +11,7 @@
 <img src="https://github.com/user567890/Intelligent-Mobile-Development/blob/main/3_1.png" width="400" height="600">
 <img src="https://github.com/user567890/Intelligent-Mobile-Development/blob/main/3_2.png" width="400" height="600">
 <img src="https://github.com/user567890/Intelligent-Mobile-Development/blob/main/3_3.png" width="400" height="600">
-<img src="https://github.com/user567890/Intelligent-Mobile-Development/blob/main/3_4.png" width="400" height="600">
+<img src="https://github.com/user567890/Intelligent-Mobile-Development/blob/main/3_4.png" width="600" height="400">
 
 <H1>Week_4</H1>
 <H3>Activities and intents</H3>
