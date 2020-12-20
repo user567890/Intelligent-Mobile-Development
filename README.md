@@ -3,15 +3,48 @@
 
 
 
-<H2>Week_Two</H2>
-<img src="https://github.com/user567890/Intelligent-Mobile-Development/blob/main/1.png">
-<HR>
+<H1>Week_Two</H1>
+<H3>Android Studio and Hello World</H3>
+<img src="">
+
   
 
-<H2>Week_3</H2>
-<img src="https://github.com/user567890/Intelligent-Mobile-Development/blob/main/1.png">
-<img src="https://github.com/user567890/Intelligent-Mobile-Development/blob/main/3.png">
-<HR>
+<H1>Week_Two</H1>
+<H3>Android Studio and Hello World</H3>
+<img src="">
+
+<H1>Week_Two</H1>
+<H3>Android Studio and Hello World</H3>
+<img src="">
+
+<H1>Week_Two</H1>
+<H3>Android Studio and Hello World</H3>
+<img src="">
+
+<H1>Week_Two</H1>
+<H3>Android Studio and Hello World</H3>
+<img src="">
+
+<H1>Week_Two</H1>
+<H3>Android Studio and Hello World</H3>
+<img src="">
+
+<H1>Week_Two</H1>
+<H3>Android Studio and Hello World</H3>
+<img src="">
+
+<H1>Week_Two</H1>
+<H3>Android Studio and Hello World</H3>
+<img src="">
+
+<H1>Week_Two</H1>
+<H3>Android Studio and Hello World</H3>
+<img src="">
+
+<H1>Week_Two</H1>
+<H3>Android Studio and Hello World</H3>
+<img src="">
+
 
 
 
